@@ -1,0 +1,22 @@
+{
+  "departments": [
+    {
+      "name": "Computer Science",
+      "professors": [
+        {
+          "name": "Dr. Smith",
+          "students": [
+            {
+              "name": "Alice",
+              "id": "CS101"
+            },
+            {
+              "name": "Bob",
+              "id": "CS102"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
